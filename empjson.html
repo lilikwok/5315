@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css">
 </head>
 <body>
-    <table id="stdTable" class="display" width="100%" cellspacing="0">
+    <table id="empTable" class="display" width="100%" cellspacing="0">
         <thead>
             <tr>
                 <th>studentID</th>
@@ -37,7 +37,7 @@
     
     <script type="text/javascript">
     $(document).ready(function() {
-        $('#stdTable').dataTable({
+        $('#empTable').dataTable({
             "ajax": "empdata.js",
             "columns": [
                 {"data": "studentID"},
