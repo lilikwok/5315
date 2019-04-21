@@ -1,124 +1,164 @@
 {
   "data": [
-    {
-      "name": "James Bond",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
-    },
-    {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
-    },
-    {
-      "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
-    },
-    {
-      "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
-    },
-    {
-      "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
-    },
-    {
-      "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
-    },
-    {
-      "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
-    },
-    {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
-    },
-    {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
-    },
-    {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
-    },
-    {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
-    },
-    {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
-    },
-    {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
-    },
-    {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
-    },
-    {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
-    }
+
+  {
+    "studentID": "B4045000",
+    "name": "Robert Adams",
+    "department": "Business",
+    "age": 25,
+    "startDate": "2017/09/01",
+    "degree": "Bachelor"
+
+  },
+
+  {
+    "studentID": "B4045001",
+    "name": "Lili Kwok",
+    "department": "Computer Science",
+    "age": 25,
+    "startDate": "2017/09/01",
+    "degree": "Bachelor"
+
+  },
+
+  {
+    "studentID": 'B4045002',
+    "name": "Shirley Pretty",
+    "department": "Biology",
+    "age": 21,
+    "startDate": "2017/03/01",
+    "degree": "Bachelor"
+
+  },
+
+  {
+    "studentID": 'B4045003',
+    "name": "Galen Green",
+    "department": "Engineer",
+    "age": 18,
+    "startDate": "2015/09/01",
+    "degree": "Bachelor"
+
+  },
+
+  {
+    "studentID": 'B4045004',
+    "name": "Alen Lee",
+    "department": "Art",
+    "age": 23,
+    "startDate": "2015/09/01",
+    "degree": "Bachelor"
+
+  },
+
+  {
+    "studentID": 'B4045005',
+    "name": "Yumiko Gao",
+    "department": "Biology",
+    "age": 21,
+    "startDate": "2018/03/01",
+    "degree": "Bachelor"
+
+  },
+
+  {
+    "studentID": 'B4045006',
+    "name": "Jamie Brown",
+    "department": "Computer Science",
+    "age": 20,
+    "startDate": "2016/03/01",
+    "degree": "Bachelor"
+
+  },
+
+  {
+    "studentID": 'M3036001',
+    "name": "Ben Kim",
+    "department": "Art",
+    "age": 20,
+    "startDate": "2017/09/01",
+    "degree": "Master"
+
+  },
+
+  {
+    "studentID": 'M3036002',
+    "name": "Laurence Cory",
+    "department": "Art",
+    "age": 27,
+    "startDate": "2018/09/01",
+    "degree": "Master"
+
+  },
+
+  {
+    "studentID": 'M3036003',
+    "name": "Kevin Gasper",
+    "department": "Business",
+    "age": 18,
+    "startDate": "2017/09/01",
+    "degree": "Master"
+
+  },
+
+  {
+    "studentID": 'M3036004',
+    "name": "Dale Green",
+    "department": "Business",
+    "age": 30,
+    "startDate": "2018/09/01",
+    "degree": "Master"
+
+  },
+
+  {
+    "studentID": 'M3036005',
+    "name": "Susan White",
+    "department": "Engineer",
+    "age": 19,
+    "startDate": "2017/03/01",
+    "degree": "Master"
+
+  },
+
+  {
+    "studentID": 'M3036006',
+    "name": "Clair Pan",
+    "department": "Engineer",
+    "age": 25,
+    "startDate": "2015/03/01",
+    "degree": "Master"
+
+  },
+
+  {
+    "studentID": 'M3036007',
+    "name": "Yen Lee",
+    "department": "Art",
+    "age": 19,
+    "startDate": "2016/09/01",
+    "degree": "Master"
+
+  },
+
+  {
+    "studentID": 'M3036008',
+    "name": "Mark Beech",
+    "department": "Computer Science",
+    "age": 21,
+    "startDate": "2018/09/01",
+    "degree": "Master"
+
+  },
+
+  {
+    "studentID": 'M3036009',
+    "name": "Joe Lee",
+    "department": "Computer Science",
+    "age": 20,
+    "startDate": "2015/09/01",
+    "degree": "Master"
+  }
+
   ]
 }
