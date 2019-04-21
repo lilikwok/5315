@@ -15,7 +15,6 @@
       "age": "25",
       "startDate": "2017/09/01",
       "degree": "Bachelor"
-
     },
     {
       "studentID": 'B4045002',
@@ -24,7 +23,6 @@
       "age": "21",
       "startDate": "2017/03/01",
       "degree": "Bachelor"
-
     },
     {
       "studentID": 'B4045003',
@@ -33,7 +31,6 @@
       "age": "18",
       "startDate": "2015/09/01",
       "degree": "Bachelor"
-
     },
     {
       "studentID": 'B4045004',
@@ -42,7 +39,6 @@
       "age": "23",
       "startDate": "2015/09/01",
       "degree": "Bachelor"
-
     },
     {
       "studentID": 'B4045005',
@@ -51,7 +47,6 @@
       "age": "21",
       "startDate": "2018/03/01",
       "degree": "Bachelor"
-
     },
     {
       "studentID": 'B4045006',
@@ -60,7 +55,6 @@
       "age": "20",
       "startDate": "2016/03/01",
       "degree": "Bachelor"
-
     },
     {
       "studentID": 'M3036001',
@@ -69,7 +63,6 @@
       "age": "20",
       "startDate": "2017/09/01",
       "degree": "Master"
-
     },
     {
       "studentID": 'M3036002',
@@ -78,7 +71,6 @@
       "age": "27",
       "startDate": "2018/09/01",
       "degree": "Master"
-
     },
     {
       "studentID": 'M3036003',
@@ -87,7 +79,6 @@
       "age": "18",
       "startDate": "2017/09/01",
       "degree": "Master"
-
     },
     {
       "studentID": 'M3036004',
@@ -96,7 +87,6 @@
       "age": "30",
       "startDate": "2018/09/01",
       "degree": "Master"
-
     },
     {
       "studentID": 'M3036005',
@@ -105,7 +95,6 @@
       "age": "19",
       "startDate": "2017/03/01",
       "degree": "Master"
-
     },
     {
       "studentID": 'M3036006',
@@ -114,7 +103,6 @@
       "age": "25",
       "startDate": "2015/03/01",
       "degree": "Master"
-
     },
     {
       "studentID": 'M3036007',
@@ -123,7 +111,6 @@
       "age": "19",
       "startDate": "2016/09/01",
       "degree": "Master"
-
     },
     {
       "studentID": 'M3036008',
@@ -132,7 +119,6 @@
       "age": "21",
       "startDate": "2018/09/01",
       "degree": "Master"
-
     },
     {
       "studentID": 'M3036009',
