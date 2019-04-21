@@ -1,112 +1,112 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <students>
     <data>
-      <studentID>B4045000</StudentID>
+      <studentID>B4045000</studentID>
       <name>Robert Adams</name>
       <department>Business</department>
       <age>25</age>
       <startDate>2017/09/01</startDate>
     </data>
     <data>
-      <studentID>B4045001</StudentID>
+      <studentID>B4045001</studentID>
       <name>Lili Kwok</name>
       <department>Computer Science</department>
       <age>25</age>
       <startDate>2017/09/01</startDate>
     </data>
     <data>
-      <studentID>B4045002</StudentID>
+      <studentID>B4045002</studentID>
       <name>Shirley Pretty</name>
       <department>Biology</department>
       <age>21</age>
       <startDate>2017/03/01</startDate>
     </data>
     <data>
-      <studentID>B4045003</StudentID>
+      <studentID>B4045003</studentID>
       <name>Galen Green</name>
       <department>Engineer</department>
       <age>18</age>
       <startDate>2015/09/01</startDate>
     </data>
     <data>
-      <studentID>B4045004</StudentID>
+      <studentID>B4045004</studentID>
       <name>Alen Lee</name>
       <department>Art</department>
       <age>23</age>
       <startDate>2015/09/01</startDate>
     </data>
     <data>
-      <studentID>B4045005</StudentID>
+      <studentID>B4045005</studentID>
       <name>Yumiko Gao</name>
       <department>Biology</department>
       <age>21</age>
       <startDate>2018/03/01</startDate>
     </data>
     <data>
-      <studentID>B4045006</StudentID>
+      <studentID>B4045006</studentID>
       <name>Jamie Brown</name>
       <department>Computer Science</department>
       <age>20</age>
       <startDate>2016/03/01</startDate>
     </data>
     <data>
-      <studentID>M3036001</StudentID>
+      <studentID>M3036001</studentID>
       <name>Ben Kim</name>
       <department>Art</department>
       <age>20</age>
       <startDate>2017/09/01</startDate>
     </data>
     <data>
-      <studentID>M3036002</StudentID>
+      <studentID>M3036002</studentID>
       <name>Laurence Cory</name>
       <department>Art</department>
       <age>27</age>
       <startDate>2018/09/01</startDate>
     </data>
     <data>
-      <studentID>M3036003</StudentID>
+      <studentID>M3036003</studentID>
       <name>Kevin Gasper</name>
       <department>Business</department>
       <age>18</age>
       <startDate>2017/09/01</startDate>
     </data>
     <data>
-      <studentID>M3036004</StudentID>
+      <studentID>M3036004</studentID>
       <name>Dale Green</name>
       <department>Business</department>
       <age>30</age>
       <startDate>2018/09/01</startDate>
     </data>
     <data>
-      <studentID>M3036005</StudentID>
+      <studentID>M3036005</studentID>
       <name>Susan White</name>
       <department>Engineer</department>
       <age>19</age>
       <startDate>2017/03/01</startDate>
     </data>
     <data>
-      <studentID>M3036006</StudentID>
+      <studentID>M3036006</studentID>
       <name>Clair Pan</name>
       <department>Engineer</department>
       <age>25</age>
       <startDate>2015/03/01</startDate>
     </data>
     <data>
-      <studentID>M3036007</StudentID>
+      <studentID>M3036007</studentID>
       <name>Yen Lee</name>
       <department>Art</department>
       <age>19</age>
       <startDate>2016/09/01</startDate>
     </data>
     <data>
-      <studentID>M3036008</StudentID>
+      <studentID>M3036008</studentID>
       <name>Mark Beech</name>
       <department>Computer Science</department>
       <age>21</age>
       <startDate>2018/09/01</startDate>
     </data>
     <data>
-      <studentID>M3036009</StudentID>
+      <studentID>M3036009</studentID>
       <name>Joe Lee</name>
       <department>Computer Science</department>
       <age>20</age>
