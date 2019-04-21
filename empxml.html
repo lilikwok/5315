@@ -15,7 +15,6 @@
             type: "GET",
             url: "empdata.xml", 
             dataType: "xml",
-            align: "center",
             success: function(xml) {  
              $(xml).find('data').each(function(){  
               t.row.add( [
@@ -36,7 +35,7 @@
   <table id="chart" class="display" cellspacing="0" width="100%" align = "center">
     <thead>
         <tr>
-            <th>student ID</th>
+            <th align = "left">student ID</th>
             <th>name</th>
             <th>department</th>
             <th>age</th>
@@ -45,7 +44,7 @@
     </thead>
 
     <tfoot>
-        <tr>
+        <tr align = "left">
             <th>student ID</th>
             <th>name</th>
             <th>department</th>
