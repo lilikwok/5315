@@ -1,123 +1,116 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-  <employees>
+  <students>
     <data>
-      <name>James Bond</name>
-      <designation>Accountant</designation>
-      <salary>$170,750</salary>
-      <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
-      <extension>8422</extension>
+      <studentID>B4045000</StudentID>
+      <name>Robert Adams</name>
+      <department>Business</department>
+      <age>25</age>
+      <startDate>2017/09/01</startDate>
     </data>
     <data>
-      <name>Brielle Williamson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$372,000</salary>
-      <joining_date>2012/12/02</joining_date>
-      <office>New York</office>
-      <extension>4804</extension>
+      <studentID>B4045001</StudentID>
+      <name>Lili Kwok</name>
+      <department>Computer Science</department>
+      <age>25</age>
+      <startDate>2017/09/01</startDate>
     </data>
     <data>
-      <name>Ashton Cox</name>
-      <designation>Junior Technical Author</designation>
-      <salary>$86,000</salary>
-      <joining_date>2009/01/12</joining_date>
-      <office>San Francisco</office>
-      <extension>1562</extension>
+      <studentID>B4045002</StudentID>
+      <name>Shirley Pretty</name>
+      <department>Biology</department>
+      <age>21</age>
+      <startDate>2017/03/01</startDate>
     </data>
     <data>
-      <name>Airi Satou</name>
-      <designation>Accountant</designation>
-      <salary>$162,700</salary>
-      <joining_date>2008/11/28</joining_date>
-      <office>Tokyo</office>
-      <extension>5407</extension>
+      <studentID>B4045003</StudentID>
+      <name>Galen Green</name>
+      <department>Engineer</department>
+      <age>18</age>
+      <startDate>2015/09/01</startDate>
     </data>
     <data>
-      <name>Caesar Vance</name>
-      <designation>Pre-Sales Support</designation>
-      <salary>$106,450</salary>
-      <joining_date>2011/12/12</joining_date>
-      <office>New York</office>
-      <extension>8330</extension>
+      <studentID>B4045004</StudentID>
+      <name>Alen Lee</name>
+      <department>Art</department>
+      <age>23</age>
+      <startDate>2015/09/01</startDate>
     </data>
     <data>
-      <name>Shad Decker</name>
-      <designation>Regional Director</designation>
-      <salary>$183,000</salary>
-      <joining_date>2008/11/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>6373</extension>
+      <studentID>B4045005</StudentID>
+      <name>Yumiko Gao</name>
+      <department>Biology</department>
+      <age>21</age>
+      <startDate>2018/03/01</startDate>
     </data>
     <data>
-      <name>Cedric Kelly</name>
-      <designation>Senior Javascript Developer</designation>
-      <salary>$433,060</salary>
-      <joining_date>2012/03/29</joining_date>
-      <office>Edinburgh</office>
-      <extension>6224</extension>
+      <studentID>B4045006</StudentID>
+      <name>Jamie Brown</name>
+      <department>Computer Science</department>
+      <age>20</age>
+      <startDate>2016/03/01</startDate>
     </data>
     <data>
-      <name>Haley Kennedy</name>
-      <designation>Senior Marketing Designer</designation>
-      <salary>$313,500</salary>
-      <joining_date>2012/12/18</joining_date>
-      <office>London</office>
-      <extension>3597</extension>
+      <studentID>M3036001</StudentID>
+      <name>Ben Kim</name>
+      <department>Art</department>
+      <age>20</age>
+      <startDate>2017/09/01</startDate>
     </data>
     <data>
-      <name>Colleen Hurst</name>
-      <designation>Javascript Developer</designation>
-      <salary>$205,500</salary>
-      <joining_date>2009/09/15</joining_date>
-      <office>San Francisco</office>
-      <extension>2360</extension>
+      <studentID>M3036002</StudentID>
+      <name>Laurence Cory</name>
+      <department>Art</department>
+      <age>27</age>
+      <startDate>2018/09/01</startDate>
     </data>
     <data>
-      <name>Dai Rios</name>
-      <designation>Personnel Lead</designation>
-      <salary>$217,500</salary>
-      <joining_date>2012/09/26</joining_date>
-      <office>Edinburgh</office>
-      <extension>2290</extension>
+      <studentID>M3036003</StudentID>
+      <name>Kevin Gasper</name>
+      <department>Business</department>
+      <age>18</age>
+      <startDate>2017/09/01</startDate>
     </data>
     <data>
-      <name>Herrod Chandler</name>
-      <designation>Sales Assistant</designation>
-      <salary>$137,500</salary>
-      <joining_date>2012/08/06</joining_date>
-      <office>San Francisco</office>
-      <extension>9608</extension>
+      <studentID>M3036004</StudentID>
+      <name>Dale Green</name>
+      <department>Business</department>
+      <age>30</age>
+      <startDate>2018/09/01</startDate>
     </data>
     <data>
-      <name>Rhona Davidson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$327,900</salary>
-      <joining_date>2010/10/14</joining_date>
-      <office>Tokyo</office>
-      <extension>6200</extension>
+      <studentID>M3036005</StudentID>
+      <name>Susan White</name>
+      <department>Engineer</department>
+      <age>19</age>
+      <startDate>2017/03/01</startDate>
     </data>
     <data>
-      <name>Sonya Frost</name>
-      <designation>Software Engineer</designation>
-      <salary>$103,600</salary>
-      <joining_date>2008/12/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>1667</extension>
+      <studentID>M3036006</StudentID>
+      <name>Clair Pan</name>
+      <department>Engineer</department>
+      <age>25</age>
+      <startDate>2015/03/01</startDate>
     </data>
     <data>
-      <name>Jena Gaines</name>
-      <designation>Office Manager</designation>
-      <salary>$90,560</salary>
-      <joining_date>2008/12/19</joining_date>
-      <office>London</office>
-      <extension>3814</extension>
+      <studentID>M3036007</StudentID>
+      <name>Yen Lee</name>
+      <department>Art</department>
+      <age>19</age>
+      <startDate>2016/09/01</startDate>
     </data>
     <data>
-      <name>Quinn Flynn</name>
-      <designation>Support Lead</designation>
-      <salary>$342,000</salary>
-      <joining_date>2013/03/03</joining_date>
-      <office>Edinburgh</office>
-      <extension>9497</extension>
+      <studentID>M3036008</StudentID>
+      <name>Mark Beech</name>
+      <department>Computer Science</department>
+      <age>21</age>
+      <startDate>2018/09/01</startDate>
     </data>
-  </employees>
+    <data>
+      <studentID>M3036009</StudentID>
+      <name>Joe Lee</name>
+      <department>Computer Science</department>
+      <age>20</age>
+      <startDate>2015/09/01</startDate>
+    </data>
+
+  </students>
